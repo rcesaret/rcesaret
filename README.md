@@ -102,4 +102,4 @@ Full list → [Google Scholar](https://scholar.google.com/citations?user=49LELq
 
 ---
 
-<sub>Last updated: {{MONTH}} {{YEAR}} • Always open to collaboration & coffee chats.</sub>
+<sub>Last updated: June 2025 • Always open to collaboration & coffee chats.</sub>
