@@ -42,8 +42,8 @@ I’m eager to apply these skills to industry challenges, collaborating with inn
 | **Full‑stack analytics**    | I design ETL → EDA → ML → visualization workflows end‑to‑end—even when the data start in cardboard boxes.              |
 | **Spatial intelligence**    | PostGIS & GeoPandas are second nature; I turn location data into decisions, from crop‑yield forecasts to asset siting. |
 | **Translational mindset**   | I ‘speak’ both academic rigor and product impact, ensuring models answer the *why*, not just the *what*.               |
-| **Leadership & mentorship** | 10+ courses taught, 20+ students mentored, remote cross‑functional teams coordinated.                                  |
-| **Continuous learning**     | Currently upskilling in PyTorch, cloud ML (AWS SageMaker), and advanced SQL optimization.                              |
+| **Leadership & mentorship** | 10+ courses taught, 10+ students mentored, remote cross‑functional teams coordinated.                                  |
+| **Continuous learning**     | Currently upskilling in PyTorch, streamlit, FastAPI, and advanced SQL optimization.                              |
 
 
 ## 🚀 Featured Projects
